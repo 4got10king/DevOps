@@ -7,7 +7,7 @@
 3) Узнаём версию ОС командой: **cat /etc/issue**
 ## 
 
-![image](/.../QUEST1/QUEST1.png)
+![1.png](QUEST1/QUEST1.png)
 
 ## 
 
