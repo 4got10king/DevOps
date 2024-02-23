@@ -5,7 +5,7 @@
 2) Создаём виртуальную машину в VirtualBox и выбираем наш дистрибутив
 
 3) Узнаём версию ОС командой: **cat /etc/issue**
-## 
+## Screenshots
 
 ![1.png](QUEST1/QUEST1.png)
 
@@ -16,7 +16,7 @@
 
 ## 
 
-![image](/.../QUEST2/QUEST2.png)
+![2.png](QUEST2/QUEST2.png)
 
 ## 
 
@@ -26,7 +26,7 @@
 
 ## 
 
-![image](/.../QUEST2/QUEST2.1.png)
+![2.png](QUEST2/QUEST2.1.png)
 
 ## 
  
@@ -36,7 +36,7 @@
 
 ## 
 
-![image](/.../QUEST3/QUEST3.png)
+![2.png](QUEST3/QUEST3.png)
 
 ## 
 
@@ -44,7 +44,7 @@
 
 ## 
 
-![image](/.../QUEST3/QUEST3.1.png)
+![2.png](QUEST3/QUEST3.1.png)
 
 ## 
 
@@ -54,7 +54,7 @@
 
 ## 
 
-![image](/.../QUEST3/QUEST3.2.png)
+![2.png](QUEST3/QUEST3.2.png)
 
 ## 
 
@@ -64,7 +64,7 @@
 
 ## 
 
-![image](/.../QUEST3/QUEST3.3.png)
+![2.png](QUEST3/QUEST3.3.png)
 
 ## 
 
@@ -73,7 +73,7 @@
 
 ## 
 
-![image](/.../QUEST3/QUEST3.4.png)
+![2.png](QUEST3/QUEST3.4.png)
 
 ## 
 
@@ -81,7 +81,7 @@
 
 ## 
 
-![image](/.../QUEST3/QUEST3.5.png)
+![2.png](QUEST3/QUEST3.5.png)
 
 ## 
 
@@ -92,7 +92,7 @@
 
 ## 
 
-![image](/.../QUEST3/QUEST3.6.png)
+![2.png](QUEST3/QUEST3.6.png)
 
 ## 
 
@@ -102,13 +102,13 @@
 
 ## 
 
-![image](/.../QUEST3/QUEST3.7.png)
+![2.png](QUEST3/QUEST3.7.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST3/QUEST3.8.png)
+![2.png](QUEST3/QUEST3.8.png)
 
 ## 
 
@@ -117,7 +117,7 @@
 
 ## 
 
-![image](/.../QUEST4/QUEST4.png)
+![2.png](QUEST4/QUEST4.png)
 
 ## 
 # Part 5. Использование команды sudo
@@ -127,7 +127,7 @@
 
 ## 
 
-![image](/.../QUEST5/QUEST5.png)
+![2.png](QUEST5/QUEST5.png)
 
 ## 
 
@@ -137,7 +137,7 @@
 
 ## 
 
-![image](/.../QUEST6/QUEST6.png)
+![2.png](QUEST6/QUEST6.png)
 
 ## 
 # Part 7. Установка и использование текстовых редакторов
@@ -145,25 +145,25 @@
 
 ## 
 
-![image](/.../QUEST7/QUEST7.png)
+![2.png](QUEST7/QUEST7.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST7/QUEST7.1.png)
+![2.png](QUEST7/QUEST7.1.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST7/QUEST7.8.png)
+![2.png](QUEST7/QUEST7.8.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST7/QUEST7.9.png)
+![2.png](QUEST7/QUEST7.9.png)
 
 ## 
 
@@ -171,19 +171,19 @@
 
 ## 
 
-![image](/.../QUEST7/QUEST7.2.png)
+![2.png](QUEST7/QUEST7.2.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST7/QUEST7.3.png)
+![2.png](QUEST7/QUEST7.3.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST7/QUEST7.10.png)
+![2.png](QUEST7/QUEST7.10.png)
 
 ## 
 
@@ -191,19 +191,19 @@
 
 ## 
 
-![image](/.../QUEST7/QUEST7.4.png)
+![2.png](QUEST7/QUEST7.4.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST7/QUEST7.5.png)
+![2.png](QUEST7/QUEST7.5.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST7/QUEST7.6.png)
+![2.png](QUEST7/QUEST7.6.png)
 
 ## 
 
@@ -211,13 +211,13 @@
 
 ## 
 
-![image](/.../QUEST7/QUEST7.7.png)
+![2.png](QUEST7/QUEST7.7.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST7/QUEST7.11.png)
+![2.png](QUEST7/QUEST7.11.png)
 
 ## 
 # Part 8. Установка и базовая настройка сервиса SSHD
@@ -226,7 +226,7 @@
 
 ## 
 
-![image](/.../QUEST8/QUEST8.png)
+![2.png](QUEST8/QUEST8.png)
 
 ## 
 
@@ -234,7 +234,7 @@
 
 ## 
 
-![image](/.../QUEST8/QUEST8.1.png)
+![2.png](QUEST8/QUEST8.1.png)
 
 ## 
 
@@ -242,7 +242,7 @@
 
 ## 
 
-![image](/.../QUEST8/QUEST8.2.png)
+![2.png](QUEST8/QUEST8.2.png)
 
 ## 
 
@@ -250,7 +250,7 @@
 
 ## 
 
-![image](/.../QUEST8/QUEST8.3.png)
+![2.png](QUEST8/QUEST8.3.png)
 
 ## 
 
@@ -280,7 +280,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST9/QUEST9.png)
+![2.png](QUEST9/QUEST9.png)
 
 ## 
 
@@ -293,49 +293,49 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST9/QUEST9.1.png)
+![2.png](QUEST9/QUEST9.1.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST9/QUEST9.2.png)
+![2.png](QUEST9/QUEST9.2.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST9/QUEST9.3.png)
+![2.png](QUEST9/QUEST9.3.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST9/QUEST9.4.png)
+![2.png](QUEST9/QUEST9.4.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST9/QUEST9.5.png)
+![2.png](QUEST9/QUEST9.5.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST9/QUEST9.6.png)
+![2.png](QUEST9/QUEST9.6.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST9/QUEST9.7.png)
+![2.png](QUEST9/QUEST9.7.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST9/QUEST9.8.png)
+![2.png](QUEST9/QUEST9.8.png)
 
 ## 
 
@@ -349,7 +349,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST10/QUEST10.png)
+![2.png](QUEST10/QUEST10.png)
 
 ## 
 
@@ -357,7 +357,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST10/QUEST10.1.png)
+![2.png](QUEST10/QUEST10.1.png)
 
 ## 
 # Part 11. Использование утилиты df
@@ -366,7 +366,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST11/QUEST11.png)
+![2.png](QUEST11/QUEST11.png)
 
 ## 
 
@@ -376,7 +376,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST11/QUEST11.1.png)
+![2.png](QUEST11/QUEST11.1.png)
 
 ## 
 # Part 12. Использование утилиты du
@@ -385,7 +385,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST12/QUEST12.png)
+![2.png](QUEST12/QUEST12.png)
 
 ## 
 
@@ -393,7 +393,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST12/QUEST12.1.png)
+![2.png](QUEST12/QUEST12.1.png)
 
 ## 
 
@@ -401,7 +401,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST12/QUEST12.2.png)
+![2.png](QUEST12/QUEST12.2.png)
 
 ## 
 
@@ -409,31 +409,31 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST12/QUEST12.3.png)
+![2.png](QUEST12/QUEST12.3.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST12/QUEST12.4.png)
+![2.png](QUEST12/QUEST12.4.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST12/QUEST12.5.png)
+![2.png](QUEST12/QUEST12.5.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST12/QUEST12.6.png)
+![2.png](QUEST12/QUEST12.6.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST12/QUEST12.7.png)
+![2.png](QUEST12/QUEST12.7.png)
 
 ## 
 
@@ -444,7 +444,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST13/QUEST13.png)
+![2.png](QUEST13/QUEST13.png)
 
 ## 
 
@@ -453,7 +453,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST13/QUEST13.1.png)
+![2.png](QUEST13/QUEST13.1.png)
 
 ## 
 
@@ -461,7 +461,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST13/QUEST13.2.png)
+![2.png](QUEST13/QUEST13.2.png)
 
 ## 
 
@@ -469,7 +469,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST13/QUEST13.3.png)
+![2.png](QUEST13/QUEST13.3.png)
 
 ## 
 
@@ -486,13 +486,13 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST14/QUEST14.png)
+![2.png](QUEST14/QUEST14.png)
 
 ## 
 
 ## 
 
-![image](/.../QUEST14/QUEST14.1.png)
+![2.png](QUEST14/QUEST14.1.png)
 
 ## 
 # Part 15. Использование планировщика заданий CRON
@@ -503,7 +503,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST15/QUEST15.png)
+![2.png](QUEST15/QUEST15.png)
 
 ## 
 
@@ -511,7 +511,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST15/QUEST15.1.png)
+![2.png](QUEST15/QUEST15.1.png)
 
 ## 
 
@@ -519,7 +519,7 @@ Send-Q — данные, которые приложение-отправите�
 
 ## 
 
-![image](/.../QUEST15/QUEST15.2.png)
+![2.png](QUEST15/QUEST15.2.png)
 
 ## 
 
