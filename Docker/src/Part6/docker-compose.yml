@@ -1,0 +1,7 @@
+services:
+  server:
+    build: ../Part5
+  proxy:
+    build: .
+    ports:
+      - 80:8080
